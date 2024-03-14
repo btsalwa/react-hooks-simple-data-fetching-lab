@@ -20,7 +20,7 @@ return(
             {isLoaded?(
                 <img src={dogImage} alt='A Random Dog'></img>
             ):(
-                <p>Loading...</p>
+                <p>Loading Please wait...</p>
             )}
             
         </div>
